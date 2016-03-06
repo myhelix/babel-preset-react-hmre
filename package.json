@@ -7,7 +7,7 @@
     "url": "https://github.com/danmartinez101/babel-preset-react-hmre.git"
   },
   "scripts": {
-    "test": "babel --presets react,../babel-preset-react-hmre test/ | grep \"_wrapComponent('Test')(class Test extends React.Component {\""
+    "test": "babel --presets react,../index test/ | grep \"_wrapComponent('Test')(class Test extends React.Component {\""
   },
   "main": "index.js",
   "author": "Daniel Martinez",
