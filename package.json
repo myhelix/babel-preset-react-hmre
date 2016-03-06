@@ -13,13 +13,13 @@
   "author": "Daniel Martinez",
   "license": "ISC",
   "dependencies": {
-    "babel-plugin-react-transform": "^2.0.0",
+    "babel-plugin-react-transform": "^2.0.2",
     "react-transform-catch-errors": "^1.0.2",
-    "react-transform-hmr": "^1.0.2",
+    "react-transform-hmr": "^1.0.3",
     "redbox-react": "^1.2.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.3.17",
+    "babel-cli": "^6.6.5",
     "babel-preset-react": "^6.3.13",
     "react": "^0.14.7"
   }
