@@ -19,7 +19,7 @@
     "redbox-react": "^1.2.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.6.5",
+    "babel-cli": "^6.23.0",
     "babel-preset-react": "^6.3.13",
     "react": "^0.14.7"
   }
